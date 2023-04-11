@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Nature Emploi</string>
+    <!--menu item    -->
+    <string name="bottom_home_item">Accueil</string>
+    <string name="bottom_collection_item">Collection</string>
+    <string name="bottom_add_plant_item">Ajouter</string>
+    <!-- Page d'acceuille   -->
+    <string name="home_page_title">A decouvrir</string>
+    <string name="home_page_last_plant_section">Derniere plantes</string>
+
+    <!-- Page de collection   -->
+    <string name="collection_page">Ma Collection</string>
+
+    <!-- Page d'aAjout de plante   -->
+    <string name="add_plant_page_title">Ajout d\'une plante</string>
+    <string name="add_plant_page_upload_button">Charger image</string>
+    <string name="add_plant_page_name_input">@string/item_plant_name</string>
+    <string name="add_plant_page_description_input">@string/item_plant_description</string>
+
+    <string-array name="add_plant_page_grow_spinner_input">
+        <item>Croissance : Lente</item>
+        <item>Croissance : Moyenne</item>
+        <item>Croissance : rapide</item>
+    </string-array>
+
+    <string-array name="add_plant_page_water_spinner_input">
+        <item>Consommation : Faible</item>
+        <item>Consommation : Moyenne</item>
+        <item>Consommation : Elevee</item>
+    </string-array>
+
+    <string name="add_plant_page_confirm_button">Confirmer</string>
+
+<!--    fenetre popup de details-->
+    <string name="popup_plant_name">Plant Name </string>
+    <string name="popup_plant_description_title">Description</string>
+    <string name="popup_plant_description_subtitle">petite description</string>
+    <string name="popup_plant_grow_title">Croissance</string>
+    <string name="popup_plant_grow_subtitle">Lente</string>
+    <string name="popup_plant_water_title">Consommation Eau</string>
+    <string name="popup_plant_water_subtitle">Faible </string>
+
+
+    <!--plant customise   -->
+    <string name="item_plant_name">nom de la plante</string>
+    <string name="item_plant_description">Description de la plante</string>
+
+</resources>
